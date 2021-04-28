@@ -3,7 +3,6 @@
  * Contribuição de Fabio de Souza Mendes 
  * @url https://github.com/fatorx
  */
-
 class ConsultaPorCep {
     
     public function consulta( $cep = null ) {
